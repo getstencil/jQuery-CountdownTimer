@@ -6,6 +6,14 @@ Vanilla JS) library that allowed me to instantiate a countdown timer and have it
 be based on the initial timestamp (rather than decrementing
 seconds/milliseconds, since that doesn't work well with idle tabs).
 
+### Inclusion
+``` javascript
+<script src="/path/to/vendor/jQuery-CountdownTimer/extend.js"></script>
+<script src="/path/to/vendor/jQuery-CountdownTimer/Base.js"></script>
+<script src="/path/to/vendor/jQuery-CountdownTimer/CountdownTimer.js"></script>
+```
+
+
 ### Example
 ``` javascript
 var countdownTimer = new CountdownTimer(),

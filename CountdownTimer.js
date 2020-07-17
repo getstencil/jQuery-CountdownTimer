@@ -12,7 +12,6 @@
  *          unpause
  * @todo    support milliseconds
  * @todo    support days
- *          countdownTimer.start();
  * @extends Base
  */
 window.CountdownTimer = Base.extend({
