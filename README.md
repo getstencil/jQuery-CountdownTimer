@@ -29,6 +29,20 @@ countdownTimer.setDurationRemainingElements($elements);
 - `start`
 - `stop`
 - `unpause`
+```
+
+### Public methods
+- `getDurationRemaining`
+- `getDurationRemainingCopy`
+- `getValidBrowser`
+- `pause`
+- `restart`
+- `start`
+- `stop`
+- `setDuration`
+- `setDurationRemainingElements`
+- `setDurationRemainingFormat`
+- `unpause`
 
 ### More details
 I was running into a situation whereby I couldn't depend on a `setInterval` call

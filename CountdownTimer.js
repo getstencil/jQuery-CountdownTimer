@@ -52,7 +52,6 @@ window.CountdownTimer = Base.extend({
      * @var     Boolean (default: false)
      */
     _debugMode: false,
-    // _debugMode: true,
 
     /**
      * _defaultDurationRemainingFormats
