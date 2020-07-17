@@ -29,7 +29,6 @@ countdownTimer.setDurationRemainingElements($elements);
 - `start`
 - `stop`
 - `unpause`
-```
 
 ### Public methods
 - `getDurationRemaining`
