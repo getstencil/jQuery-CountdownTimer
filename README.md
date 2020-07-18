@@ -7,7 +7,7 @@ be based on the initial timestamp (rather than decrementing
 seconds/milliseconds, since that doesn't work well with idle tabs).
 
 ### Inclusion
-``` javascript
+``` html
 <script src="/path/to/vendor/jQuery-CountdownTimer/extend.js"></script>
 <script src="/path/to/vendor/jQuery-CountdownTimer/Base.js"></script>
 <script src="/path/to/vendor/jQuery-CountdownTimer/CountdownTimer.js"></script>
