@@ -19,15 +19,16 @@ var countdownTimer = new CountdownTimer(),
     $elements = jQuery('.copy');
 countdownTimer.setDuration(5);
 countdownTimer.setDurationRemainingElements($elements);
+countdownTimer.start();
 ```
 
 ### Events
 - `complete`
-- `tick`
 - `pause`
 - `restart`
 - `start`
 - `stop`
+- `tick`
 - `unpause`
 
 ### Public methods
