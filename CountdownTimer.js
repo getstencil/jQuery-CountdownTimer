@@ -10,6 +10,7 @@
  *          start
  *          stop
  *          unpause
+ * @todo    Make work with specific timestamp (not sure how to do that)
  * @todo    Deal with back in Mobile Safari (and maybe desktop safari)
  * @todo    support milliseconds
  * @todo    support days
